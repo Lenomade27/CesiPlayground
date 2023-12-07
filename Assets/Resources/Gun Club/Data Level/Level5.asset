@@ -16,4 +16,4 @@ MonoBehaviour:
   CooldownSpawn: 3
   CooldownAlive: 2.5
   Prefab:
-  - {fileID: 8501340564559270100, guid: 52d32a74bdcf9434d99c5673b86e432a, type: 3}
+  - {fileID: 5183239081294331453, guid: bc2241f54be12c149ab9024eda8b4294, type: 3}
